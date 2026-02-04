@@ -12,24 +12,16 @@
 ![images/5.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/5.png)
 
 #### **如何打标**
-拖动进度条，到达相应位置<br>
-![images/6.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/6.png)  <br>
-选择相应label  
-
-
-![images/7.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/7.png)
-在末端帧点击  
-
-
-![images/8.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/8.png)
-在右边Info中，编辑frame范围  
-
-
-![images/9.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/9.png)
-完成后在下方点击Submit/Update保存  
-
-
-![images/10.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/10.png)
+拖动进度条，到达相应位置 <br>
+![images/6.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/6.png) <br>
+选择相应label <br>
+![images/7.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/7.png) <br>
+在末端帧点击 <br>
+![images/8.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/8.png) <br>
+在右边Info中，编辑frame范围 <br>
+![images/9.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/9.png) <br>
+完成后在下方点击Submit/Update保存 <br>
+![images/10.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/10.png) <br>
 
 #### **视频是否异常**
 异常视频可能是：没有操作机械臂、不是做叠毛巾的任务
