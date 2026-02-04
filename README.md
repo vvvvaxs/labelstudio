@@ -10,7 +10,7 @@
 ![images/4.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/4.png)
 点击进入需要打标的视频项目
 ![images/5.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/5.png)
-
+![images/5.5.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/5.5.png)
 #### **如何打标**
 拖动进度条，到达相应位置 <br>
 ![images/6.png](https://github.com/vvvvaxs/labelstudio/blob/main/images/6.png) <br>
